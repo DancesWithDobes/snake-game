@@ -1,1 +1,33 @@
  
+
+ ---Make Universal Variables
+    ---For board color, food color, reversal food color, snake color, snake head color
+
+
+---Design food spawn logic
+    ---Food should spawn randomly throughout the board
+        ---They shouldn't spawn on the outer edge, unless <10% of the board is open
+        ---shouldn't spawn on the snake, either
+
+
+---Need to make grid in Tkinter
+
+
+
+---Design snake spawn logic
+    --- snake should spawn randomly
+        --- should start out with three squares of length
+
+    ---should be oriented in random manner, but not start crossing the border
+
+
+--- Design reversal logic
+    --- Reverse doubly linked list
+
+    ---make the new head a different color
+
+
+
+---design snake move logic
+
+
