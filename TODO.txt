@@ -1,4 +1,43 @@
  
+[] Make constants Variables class
+    ---For board color, food color, reversal food color, snake color, snake head color
+
+
+[] design food spawn logic
+    [] food should spawn randomly throughout the board, on spaces not occupued by the snake
+
+        []possibly make option for food to spawn on outer edge
+
+
+[] snake spawn logic
+    --snake should spawn randomly
+        --should be oriented in random manner, but not start crossing the border
+
+[]design reversal logid
+    --reverse doubly linked list
+
+    --make the new head a different color
+
+
+[] make a grid in tkinter
+
+design snake spawn logic
+    [] snake should spawn randomly
+        -- should start out with a set amout of length, determined by a variable in constansts class
+
+
+
+
+
+
+[] make singly linked list t0 represent snake
+
+    [] keep reference to both head and tail of snake
+
+####################################################################################################################
+
+
+
 
  ---Make Universal Variables
     ---For board color, food color, reversal food color, snake color, snake head color
@@ -29,5 +68,3 @@
 
 
 ---design snake move logic
-
-
